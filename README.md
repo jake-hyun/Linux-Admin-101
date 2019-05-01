@@ -18,8 +18,8 @@ Linux Administration 101 to add users, add to group, and update (C___OS)
 ## Giving The User A Password
 1. Use the command "passwd"
   - This command could be used to assign or change password for an account
-2.command: $ passwd (username) (password)
-  - ex: passwd HenryG %H3nrY&%
+2.command: $ passwd (username)
+  - ex: passwd HenryG
   
 ## Assigning User to Group
 1. Use the command "groups"
