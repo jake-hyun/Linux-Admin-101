@@ -1,4 +1,7 @@
 # Linux-Admin-101
+
+These instructions are customized for the NICE Challenge Exercise
+
 Linux Administration 101 to add users, add to group, and update (C___OS)
 
 *Troubleshooting*
